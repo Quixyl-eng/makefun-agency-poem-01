@@ -5,7 +5,7 @@ from pathlib import Path
 poem = """The Match
 
 When I was seven
-My grandfather struck one,
+my grandfather struck one,
 let it burn down to his nail,
 and held the box out.
 I struck. The head flew off.
