@@ -4,17 +4,14 @@ from pathlib import Path
 
 poem = """The Match
 
-When I was seven the match
-was the whole morning.
+When I was seven
 My grandfather struck one,
 let it burn down to his nail,
 and held the box out.
-I struck. The head flew off
-and went out on the tiles.
+I struck. The head flew off.
 He put the box back in my hand
 and said nothing.
 The second took.
-He drank the tea.
 He did not strike another.
 
 His hands shake now.
@@ -33,7 +30,8 @@ The whistle came
 over a ring still dark.
 He poured.
 His hand shook.
-The tea went in the cup,
+Tea went over his thumb
+and into the cup,
 and neither of us reached to steady it.
 """
 
