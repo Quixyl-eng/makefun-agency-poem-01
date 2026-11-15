@@ -1,23 +1,42 @@
-# The short pencil writes the vote the booth still keeps.
+# The match is his, and the hand is not steadied.
 import os
 from pathlib import Path
 
-poem = """The Short Pencil
+poem = """The Match
 
-The night before, I asked it
-how I would vote on the library.
-It knew the street and the years
-and was not wrong.
+When I was seven the match
+was the whole morning.
+My grandfather struck one,
+let it burn down to his nail,
+and held the box out.
+I struck. The head flew off
+and went out on the tiles.
+He put the box back in my hand
+and said nothing.
+The second took.
+He poured the tea.
+He did not strike another.
 
-The booth had no signal.
-The pencil was worn
-to the length of a child's thumb.
-I stood until my breath
-stopped moving the curtain.
+His hands shake now.
+The agent lights the hob
+before either of us is in the room.
+It warms the pot. It sets the cups.
+It has never missed.
+The kettle is already talking
+when we come down.
 
-I marked the box it had not named.
-There was nowhere to hand the pencil,
-so the groove stayed mine.
+This morning I turned the ring off
+while he was still on the stair.
+I put the box in his hand.
+The first match died on his thumb.
+The second took.
+Neither of us spoke.
+The whistle came
+over a ring still dark.
+He poured.
+His hand shook.
+The tea went in the cup,
+and neither of us reached to steady it.
 """
 
 folder = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))

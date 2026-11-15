@@ -1,5 +1,5 @@
-# The short pencil
+# The match
 
-One poem about a vote made where nothing else can finish the hand.
+One poem about a flame handed back, and a hand nobody steadies.
 
 The program writes `entry.txt`. It does not use the network.
