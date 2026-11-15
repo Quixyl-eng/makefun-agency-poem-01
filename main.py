@@ -14,13 +14,12 @@ and went out on the tiles.
 He put the box back in my hand
 and said nothing.
 The second took.
-He poured the tea.
+He drank the tea.
 He did not strike another.
 
 His hands shake now.
 The agent lights the hob
 before either of us is in the room.
-It warms the pot. It sets the cups.
 It has never missed.
 The kettle is already talking
 when we come down.
@@ -30,7 +29,6 @@ while he was still on the stair.
 I put the box in his hand.
 The first match died on his thumb.
 The second took.
-Neither of us spoke.
 The whistle came
 over a ring still dark.
 He poured.
